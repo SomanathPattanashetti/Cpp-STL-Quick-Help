@@ -1,17 +1,43 @@
-# 📚 C++ STL Quick Help
+<div align="center">
+  
+  <!-- Floating 3D C++ Logo -->
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c84eb84e5d83.gif" width="100" />
+  
+  <br>
 
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║  Complete C++ STL Reference with Easy-to-Use Examples & Patterns  ║
-║  Perfect for Competitive Programming & LeetCode Solutions         ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
+  <!-- Animated Modern Title -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&pause=1000&color=00C8FF&background=00000000&center=true&vCenter=true&width=600&lines=C%2B%2B+STL+QUICK+HELP;Competitive+Programming+Arsenal;Master+Data+Structures;Copy+%2B+Paste+Ready" alt="Typing SVG" />
+  </a>
 
-> 🔎 **EASY + IMPORTANT + MOST USED** examples handpicked for quick reference
-> 💡 All examples are copy-paste ready for immediate use
-> 🎯 Includes LeetCode problems for practice
+  <!-- Floating Tech Stack Icons -->
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=cpp,vscode,git,github,vim&theme=dark" />
+    </a>
+  </p>
 
----
+  <!-- Glitch/Neon Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Language-C++17-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/Focus-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/Status-Maintained-success?style=for-the-badge&logo=activity&logoColor=white" />
+  </p>
+
+  <!-- 🛠️ FIXED: The Mission Code Line (Terminal Style) 🛠️ -->
+  <br>
+  <img src="https://img.shields.io/badge/const%20std::string%20MISSION%20%3D%20%22Mastering%20STLs%20for%20Interviews%22%3B-1e1e1e?style=flat-square&logo=windows-terminal&logoColor=white&labelColor=1e1e1e&color=1e1e1e" alt="Mission Code" height="40"/>
+  <br>
+  <br>
+  
+  <i>"I learned these while solving different kinds of Leetcode Questions."</i>
+  
+  <br><br>
+
+  <!-- Animated Divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+</div>
 
 ## 📝 Priority Queue (Heap) - 4 Different Comparator Methods 🗻
 
@@ -567,3 +593,41 @@ cout << dist3D;  // 3.0
 ║  Copy • Paste • Customize • Solve!                               ║
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
+
+<div align="center">
+
+  <!-- Animated Divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <br><br>
+
+  <!-- Animated Typing Text: CTA -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&pause=1000&color=00C8FF&background=00000000&center=true&vCenter=true&width=500&lines=Hope+this+helps!;Don't+forget+to+⭐+the+repo!;Happy+Coding!+🚀" alt="Typing SVG" />
+  </a>
+  <br>
+
+  <!-- 3D Floating Star/Gift Element -->
+  <img src="https://media.giphy.com/media/du3J3cXyzhj754qqzt/giphy.gif" width="150" />
+  <br>
+
+  <!-- 🛠️ C++ TERMINAL EXIT BADGE (Matches the Header) 🛠️ -->
+  <!-- This mimics the "Process finished with exit code 0" in IDEs -->
+  <img src="https://img.shields.io/badge/return%200%3B-success?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=1e1e1e&color=00C8FF" alt="return 0;" height="40"/>
+  
+  <br><br>
+
+  <!-- Tech Savvy Social/Profile Links -->
+  <p align="center">
+    <a href="https://github.com/YOUR_USERNAME">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/YOUR_USERNAME">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </p>
+
+  <p align="center">
+    <i> Crafted with <img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="30"> and C++ </i>
+  </p>
+
+</div>
